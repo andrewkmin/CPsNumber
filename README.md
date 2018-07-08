@@ -2,7 +2,7 @@
 The NBA-equivalent of the [Kevin Bacon number](https://en.wikipedia.org/wiki/Six_Degrees_of_Kevin_Bacon). The user manual is available under the file [Manual.pdf](./Manual.pdf).
 
 ## Summary
-Our project is called the Chris Paul Number and is an implementation project.
+This is the final project for NETS 150: Market and Social Systems on the Internet at the University of Pennsylvania. Our project is called the Chris Paul Number and is an implementation project. The team behind this project consisted of myself, Nathan Kidambi (Wharton + SEAS '19) and Daniel Leiser (SEAS '20).
 
 We took the idea of the Kevin Bacon Number and decided to implement it for the NBA. We
 used the data from basketball-reference.com to get a list of all the players who have
