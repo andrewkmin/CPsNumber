@@ -1,8 +1,3 @@
-# CPsNumber
-The NBA-equivalent of the Kevin Bacon number.
-
-User manual is available under the file Manual.pdf.
-
 Our project is called the Chris Paul Number and is an implementation project.
 
 We took the idea of the Kevin Bacon Number and decided to implement it for the NBA. We
