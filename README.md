@@ -26,3 +26,7 @@ We named our project the Chris Paul Number because it turns out that of the node
 
 
 My particular role was to implement the BFS algorithm. Then, I added the the functionality for computing the max distance between a given player and any other player in the graph as well as the number of "hops" between two nodes, which in our case represent NBA players. I also added a "pruning" function to remove a player from his own teammate set. The fact that a player was in his own teammate set was a side effect of an optimization that a team member had done.
+
+## Future Steps
+* Implement in different languages (Javascript, Python, maybe even Go)
+* Within Python implementation, use graph API to create visualization of player graph.
